@@ -1,4 +1,17 @@
+https://forums.juniper.net/t5/Enterprise-Cloud-and/Juniper-EngNet-and-New-Automation-Offerings-Bringing-Automation/ba-p/373388
+https://eng.juniper.net/site/global/home/index.gsp
+https://labs.networkreliability.engineering/
+https://github.com/nre-learning
+
+https://github.com/hpreston
+
 https://www.linux.com/blog/learn/chapter/Intro-to-Kubernetes/2017/5/set-cicd-pipeline-kubernetes-part-1-overview
+
+https://github.com/20c/vaping
+
+https://techmocha.blog/
+
+openNTI
 
 https://outsideit.net/tag/rundeck/
 
