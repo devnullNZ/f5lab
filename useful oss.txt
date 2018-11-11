@@ -3,6 +3,18 @@ https://eng.juniper.net/site/global/home/index.gsp
 https://labs.networkreliability.engineering/
 https://github.com/nre-learning
 
+https://www.nrl.navy.mil/itd/ncs/products/core
+https://fsharp.org/
+http://www.cs.princeton.edu/~rbeckett/Propane/Tutorial/Getting_Started.html
+https://propane-lang.org/
+https://www.intentionet.com/blog/intent_specification_language
+
+https://eos.arista.com/network-ci-part-3/#CICD_environment_overview
+https://github.com/aristanetworks/eoscentral/blob/networkci-p3/.gitlab-ci.yml
+https://github.com/aristanetworks/eoscentral/blob/networkci-p3/build/library/my_ipam.py
+
+https://github.com/networkop/meshnet-cni
+
 https://github.com/hpreston
 
 https://lkhill.com/
