@@ -1,6 +1,12 @@
 https://www.reddit.com/r/networking/comments/9363af/cisco_firepower_rant/
 https://www.reddit.com/r/networking/comments/9vynr9/cisco_firepower_rant_ii/
 
+https://packetfence.org/
+https://wiki.opentrafficshaper.org/start
+https://www.freeipa.org/page/Main_Page
+https://opnsense.org/
+https://suricata-ids.org/
+
 http://pnda.io
 
 https://forums.juniper.net/t5/Enterprise-Cloud-and/Juniper-EngNet-and-New-Automation-Offerings-Bringing-Automation/ba-p/373388
