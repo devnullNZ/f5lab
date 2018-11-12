@@ -1,7 +1,18 @@
+https://www.reddit.com/r/networking/comments/9363af/cisco_firepower_rant/
+https://www.reddit.com/r/networking/comments/9vynr9/cisco_firepower_rant_ii/
+
+http://pnda.io
+
 https://forums.juniper.net/t5/Enterprise-Cloud-and/Juniper-EngNet-and-New-Automation-Offerings-Bringing-Automation/ba-p/373388
 https://eng.juniper.net/site/global/home/index.gsp
 https://labs.networkreliability.engineering/
 https://github.com/nre-learning
+
+https://github.com/GoreNetwork?tab=repositories
+https://www.onap.org/
+
+https://github.com/johnsondnz/cisco-asa-policy-tester
+https://www.arangodb.com/
 
 https://www.nrl.navy.mil/itd/ncs/products/core
 https://fsharp.org/
