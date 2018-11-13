@@ -1,6 +1,14 @@
 https://www.reddit.com/r/networking/comments/9363af/cisco_firepower_rant/
 https://www.reddit.com/r/networking/comments/9vynr9/cisco_firepower_rant_ii/
 
+https://automatron.io/
+
+https://www.jaegertracing.io/
+https://github.com/tsenart/vegeta
+
+https://www.nexthink.com/blog/the-best-network-monitoring-tools/
+https://www.netxms.org
+
 https://packetfence.org/
 https://wiki.opentrafficshaper.org/start
 https://www.freeipa.org/page/Main_Page
