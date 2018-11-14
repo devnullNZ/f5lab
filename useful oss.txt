@@ -1,6 +1,9 @@
 https://www.reddit.com/r/networking/comments/9363af/cisco_firepower_rant/
 https://www.reddit.com/r/networking/comments/9vynr9/cisco_firepower_rant_ii/
 
+https://www.youtube.com/watch?v=xYeoYQ3kfWE
+https://github.com/yahoo/panoptes
+
 https://automatron.io/
 
 ## useful or interesting links ##
