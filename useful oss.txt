@@ -3,8 +3,62 @@ https://www.reddit.com/r/networking/comments/9vynr9/cisco_firepower_rant_ii/
 
 https://automatron.io/
 
+## useful or interesting links ##
+https://fasterdata.es.net/network-tuning/router-switch-buffer-size-issues/
+https://nets.ucar.edu/nets/intro/staff/siemsen/hints/juniper/
+http://www.solarflare.com/flareon-adapters
+http://heat.cs.ucla.edu/faq.html
+https://medium.com/netflix-techblog/flux-a-new-approach-to-system-intuition-cf428b7316ec
+http://wand.net.nz/~perry/max_download.php
+https://blog.packet-foo.com/2014/05/the-drawbacks-of-local-packet-captures/
+https://supportforums.cisco.com/document/132151/using-ethanalyzer-nexus-platform-control-plane-and-data-plane-traffic-analysis
+http://samuraism.jp/samurai/en/index.html
+https://github.com/docker/infrakit
+https://cloudposse.com/books/
+https://denlab.io/setup-a-wicked-grafana-dashboard-to-monitor-practically-anything/
+http://perfspy.blogspot.com/2016/06/ansible-tricks.html
+http://www.oznetnerd.com/anatomy-ansible-playbook/
+https://dzone.com/devops-tutorials-tools-news
+https://gist.github.com/mvadu/5fbb7f5676ce31f2b1e6
+https://basimaly.wordpress.com/2017/07/03/bgp-visualization-using-python/
+https://stackoverflow.com/questions/35605603/using-ansible-set-fact-to-create-a-dictionary-from-register-results
+http://www.cs.princeton.edu/~rbeckett/Propane/Tutorial/Language_Overview.html
+https://devcentral.f5.com/articles/demystifying-icontrol-rest-part-1-understanding-the-request-uri
+https://clouddocs.f5.com/products/orchestration/ansible/devel/usage/installing-modules.html#method-1-install-in-a-relative-location-recommended
+https://github.com/networktocode/awesome-network-automation
+https://github.com/udhos/jazigo
+https://networklore.com/introducing-brigade/
+http://www.automatingosint.com/blog/
+https://stat.ripe.net/widget/routing-history#w.resource=216.165.0.0/17&w.normalise_visibility=true
+https://github.com/TerryHowe/ansible-modules-hashivault
+http://far-oeuf.com/ansible/avoiding-bloated-roles
+https://www.accadius.com/
+https://vswitchzero.com/tag/tcp/
+https://awesome-python.com/
+https://isolario.it/index.php
+https://www.bggofurther.com/2017/06/check-ssl-certificate-of-an-url-with-openssl/
+https://www.cyberciti.biz/faq/test-ssl-certificates-diagnosis-ssl-certificate/
+https://mxtoolbox.com/SuperTool.aspx?action=asn%3a1299&run=toolpage#
+https://devcentral.f5.com/questions/howto-getting-an-awesome-qualys-ssl-labs-rating-feb-2017-update-51489#answer149922
+http://www.webpagetest.org/
+http://pythonhosted.org/behave/philosophy.html
+https://hype.codes/go-devops
+http://agiletesting.blogspot.com/2005/08/managing-dns-zone-files-with-dnspython.html
+https://panwdbl.appspot.com/
+https://valerieaurora.org/hash.html
+http://www.focb.co.nz/humor/
+http://timgolden.me.uk/python/ad_cookbook.html
+https://www.youtube.com/watch?v=b-qLOY5ChnQ
+http://www.openconfig.net/projects/models/
+http://my-netdata.io/
+https://www.htbridge.com/ssl/
+https://github.com/Juniper/wistar
+##  ##
+
 https://www.jaegertracing.io/
 https://github.com/tsenart/vegeta
+
+http://gitlist.org/
 
 https://www.nexthink.com/blog/the-best-network-monitoring-tools/
 https://www.netxms.org
