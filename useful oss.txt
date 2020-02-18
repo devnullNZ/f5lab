@@ -480,3 +480,5 @@ http://cockpit-project.org/
 https://github.com/pyca/infra
 https://github.com/puikinsh/gentelella
 https://github.com/ipspace/ansible-examples
+
+https://github.com/gostor/awesome-go-storage
