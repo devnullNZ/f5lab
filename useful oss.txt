@@ -486,3 +486,6 @@ http://vulgarpython.com/
 
 https://www.openmsa.co/
 https://github.com/heketi/heketi
+https://github.com/dgjnpr/ansible-template-for-junos
+
+https://www.envoyproxy.io/
