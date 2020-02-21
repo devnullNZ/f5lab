@@ -490,3 +490,5 @@ https://github.com/dgjnpr/ansible-template-for-junos
 
 https://www.envoyproxy.io/
 https://github.com/smallstep/cli
+
+https://min.io/
